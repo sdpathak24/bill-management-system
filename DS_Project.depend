@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623866524 source:c:\users\sp\documents\codeblock\ds_project\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
